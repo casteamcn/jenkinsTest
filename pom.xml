@@ -12,7 +12,6 @@
         <connection>scm:git:https://github.com/casteamcn/jenkinsTest.git</connection>
         <developerConnection>scm:git:https://github.com/casteamcn/jenkinsTest.git</developerConnection>
         <url>https://github.com/casteamcn/jenkinsTest.git</url>
-      <tag>HEAD</tag>
   </scm>
 
     <properties>
