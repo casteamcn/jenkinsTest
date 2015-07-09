@@ -547,6 +547,7 @@
                     </configuration>
                 </plugin>
 			</plugins>
-		</build>
-     </pluginManagement>
+		</pluginManagement>
+	</build>
+     
 </project>
