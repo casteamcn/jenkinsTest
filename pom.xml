@@ -13,6 +13,8 @@
         <developerConnection>scm:git:https://github.com/casteamcn/jenkinsTest.git</developerConnection>
         <url>https://github.com/casteamcn/jenkinsTest.git</url>
   </scm>
+  
+  <!-- for test -->
 
     <properties>
 		<casVersion>2014.08</casVersion>
